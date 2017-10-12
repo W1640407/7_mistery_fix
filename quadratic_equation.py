@@ -1,5 +1,7 @@
 from math import sqrt
 
+import sys
+
 
 def get_roots(a, b, c):
     discriminant = b ** 2 - 4 * a * c
@@ -13,5 +15,5 @@ def get_roots(a, b, c):
 
 
 if __name__ == '__main__':
-    a, b, c = map(int, input().split(" "))
+    a, b, c = map(int, sys.argv[1:])
     print(get_roots(a, b, c))
