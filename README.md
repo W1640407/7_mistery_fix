@@ -1,10 +1,11 @@
 # Решатель квадратных уравнений
 
-[TODO. Здесь будет описание проекта]
+Finds roots of quadratic equation
 
 # Как использовать
 
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа. Нужен пример кода демонстрирующий импорт модуля и использование функции.]
+input: coefficients (a b c) of quadratic equation
+output: 2 roots of quadratic equation divided by comma
 
 # Как запустить
 
