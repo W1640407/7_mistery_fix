@@ -1,11 +1,11 @@
 # Решатель квадратных уравнений
 
-Finds roots of quadratic equation
+Находит корни квадратного уравнения
 
 # Как использовать
 
-input: coefficients (a b c) of quadratic equation
-output: 2 roots of quadratic equation divided by comma
+ввод: коэффициенты (a b c) квадратного уравнения
+вывод: 2 корня квадратного уравнения, разделенные запятой
 
 # Как запустить
 
