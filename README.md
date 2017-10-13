@@ -24,8 +24,7 @@ python quadratic_equation.py 1 3 2
 
 #### Запуск тестов:
 ```
-python tests.py 1 3 2
-```
+python tests.py
 
 # Цели проекта
 
